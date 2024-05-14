@@ -9,7 +9,7 @@ Crear el diagrama de clases de la solución para la resolución del problema.
 
 # Diagrama de clases
 
-https://www.miclubapp.com/file/noticia/DiagramaClasesTarea.png
+![](https://www.miclubapp.com/file/noticia/DiagramaClasesTarea.png)
 
 # Como compilar
 
