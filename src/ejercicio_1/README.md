@@ -13,4 +13,6 @@ Crear el diagrama de clases de la solución para la resolución del problema.
 
 # Como compilar
 
-Este ejercicio se realizó en PHP
+Este ejercicio se realizó en PHP, para ejecutar el código se puede visitar
+
+(https://deployapp.miclubapp.com/controltareas/)
