@@ -11,6 +11,9 @@ El patrón que seleccione debe tener los siguientes beneficios:
     * Permite la extensión de nuevas operaciones sin modificar el código existente.
     * Facilita el registro de acciones para realizar operaciones de reversión.
 
+- **Solución:**
+El patrón escogido para solucionar el problema es el **Command**
+
 # Diagrama de clases
 - ![Diagrama de clases Sistema de gestión de tareas](diagrama_sistema_gestion_tareas.drawio.png "Diagrama")
 
