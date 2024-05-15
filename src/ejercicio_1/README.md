@@ -16,3 +16,18 @@ Crear el diagrama de clases de la solución para la resolución del problema.
 Este ejercicio se realizó en PHP, para ejecutar el código se puede visitar
 
 (https://deployapp.miclubapp.com/controltareas/)
+
+Ejemplo	
+Instalar XAMPP:
+
+Descarga e instala XAMPP desde Apache Friends.
+Configurar XAMPP:
+
+Abre el Panel de Control de XAMPP y asegúrate de iniciar los módulos de Apache y Crear el archivo PHP:
+
+Navega al directorio htdocs dentro del directorio de instalación de XAMPP (por htdocs).
+Copiar archivos en htdocs
+Ejecutar el script:
+
+Abre tu navegador web y escribe http://localhost/index.php.
+
