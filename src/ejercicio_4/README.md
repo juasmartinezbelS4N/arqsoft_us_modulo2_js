@@ -13,6 +13,9 @@ En este ejercicio se busca implementar el patrón de diseño Adapter con Javascr
 - npm install
 - npm install xmldom
 
-2. Construir proyecto vite como servidor para ejecutar debug
+2. Construir proyecto vite como servidor para ejecutar debug:
+
+- npm create vite@latest
+- npm run dev
 
 3. Enjoy!!!
