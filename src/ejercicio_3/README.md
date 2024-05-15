@@ -8,6 +8,8 @@ Quien garantiza que los pasos generales sean consistentes para todos los tipos d
 
 # Diagrama de clases
 
+![Image Alt text](./assets/diagrama.png "Diagrama de clase, ejercicio 3"))     
+
 # Como compilar
 
 **Tip:** ejecute los comandos en el directorio de ejercicio_3
